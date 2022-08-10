@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Aioli</title>
+    </head>    
+    
+    <body>
+        <h1>Aioli</h1>
+        <img src="../images/aioli.jpg" alt="Aioli">
+        
+        <h2>Description</h2>
+        <p>A simple way to make your own perfect aioli. Goes well with both Moules Frites and pizza crust. Boom</p>
+
+        <h2>Ingredients</h2>
+        <ul>
+            <li>Oil (rapeseed, olive, opinions differ. I usually go with rapeseed or sunflower. Or olive oil</li>
+            <li>Salt - a pinch</li>
+            <li>Egg yolks - maybe two. Depends on how much aioli you want</li>
+            <li>Vinaegar or lemon juice. Or lime juice if you're trying to not upset any puritans. </li>
+        </ul>
+        <h2>Steps</h2>
+        <ol>
+            <li>Mix yolks with acid of your choice (preferably not THAT kind of acid though)</li>
+            <li>Chrush or finely chop garlic and mix into the... mix(?)</li>
+            <li>Whip it while your pouring oil into it. A very very thin stream of oil. Super thin. Very important. Ask anyone</li>
+            <li>Done. Taste with salt and black pepper</li>
+
+            
+                
+        </ol>
+        
+        <a href="../index.html">Back to main page</a>
+
+    </body>
+    
+        
+    </html>
