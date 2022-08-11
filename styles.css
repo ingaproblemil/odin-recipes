@@ -1,0 +1,21 @@
+* {
+    color:gray;
+    font:"Helvetica"
+}
+
+#fett {
+    color:rgb(56, 165, 29)
+}
+
+h1 {
+    color:brown;
+    background-color: aquamarine;
+}
+
+img {height:auto;
+    width: 500px;
+}
+
+a {
+    font:"Helvetica" sans-serif;
+}
